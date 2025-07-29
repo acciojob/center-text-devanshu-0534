@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	border:0;
+	
+}
 .container {
   position: relative;
   text-align: center;
@@ -7,6 +12,6 @@
 .center{
   position: absolute;
   top:0%;
-  left:30%;
+  left:10%
   
 }
